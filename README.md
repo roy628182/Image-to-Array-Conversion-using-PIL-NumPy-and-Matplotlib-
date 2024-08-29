@@ -6,3 +6,7 @@ Image to Array Conversion: A practical repository for converting images to array
 - Library Integrations: Using PIL for image processing, NumPy for array manipulation, and Matplotlib for visualization
 - Image Formats: Support for various image formats (JPEG, PNG, BMP, etc.)
 - Array Operations: Examples of array-based image processing and analysis
+
+- Convert images to arrays for machine learning and analysis
+- Manipulate and process images using NumPy arrays
+- Visualize image data with Matplotlib
